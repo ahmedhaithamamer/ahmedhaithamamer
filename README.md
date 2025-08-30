@@ -11,7 +11,7 @@
 [Ahmed's CV](https://drive.google.com/file/d/1fxm6Sk8PWPynkXcnWZxPdcOkl6KUCnO2/view?usp=sharing)
 
 ## 🚀 Projects Showcase
-- **Secure Smart Gaurd** – An integrated smart store system with automatic cooling, fire detection, entry detection, and security modules using Arduino and ESP8266. [GitHub Repo](https://github.com/ahmedhaithamamer/Smart-Shop-Guard-project)  
+- **Smart Shop Guard** - built on the ESP32-S3 with FreeRTOS, integrates fire detection, theft prevention, door control, and environmental monitoring. It uses dual-core processing, task scheduling, dual displays, and IoT [GitHub Repo](https://github.com/ahmedhaithamamer/Smart-Shop-Guard-project)  
 - **YouTube Video Downloader GUI** – Python application using yt_dlp with a customtkinter interface for smooth video downloads.  [GitHub Repo](https://github.com/ahmedhaithamamer/Youtube-video-downloader-app)
 - **Multifunction Calculator** – C++ Windows Forms app with basic arithmetic functions, intuitive UI, and navigation menu for mode switching and exit. Developed using Visual Studio and WinForms (.NET Framework). [GitHub Repo](https://github.com/ahmedhaithamamer/Multifunction-Calculator)
 - More projects on my [Repositories](https://github.com/ahmedhaithamamer?tab=repositories).
