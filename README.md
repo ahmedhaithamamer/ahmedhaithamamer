@@ -8,7 +8,7 @@
 📫 Open to collaborations and exciting opportunities — let’s connect!
 
 ## 📝 Check out my CV:
-[Ahmed's CV](https://drive.google.com/file/d/1fxm6Sk8PWPynkXcnWZxPdcOkl6KUCnO2/view?usp=sharing)
+[Ahmed's CV]([https://drive.google.com/file/d/1fxm6Sk8PWPynkXcnWZxPdcOkl6KUCnO2/view?usp=sharing](https://drive.google.com/file/d/1gvrb1vNrXAjX6aHB2L-OLFYuNBt_z1iF/view?usp=sharing))
 
 ## 🚀 Projects Showcase
 - **Smart Shop Guard** - built on the ESP32-S3 with FreeRTOS, integrates fire detection, theft prevention, door control, and environmental monitoring. It uses dual-core processing, task scheduling, dual displays, and IoT [GitHub Repo](https://github.com/ahmedhaithamamer/Smart-Shop-Guard-project)  
