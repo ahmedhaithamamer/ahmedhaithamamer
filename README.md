@@ -43,6 +43,7 @@ Nile University, Egypt | Class of 2027
 - End-to-end ML pipeline with cleaning, EDA, forecasting, and evaluation  
 - Focus on practical forecasting workflows for real business data
 🔗 https://github.com/ahmedhaithamamer/Depi_project_Data-science
+
 ---
 
 ### ▶️ **YouTube Video Downloader GUI** – Python App  
