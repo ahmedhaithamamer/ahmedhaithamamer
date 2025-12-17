@@ -1,87 +1,137 @@
-<h1>Hi 👋, I'm Ahmed Haitham</h1>
-<h3>Electronics and Computer Engineering Student at Nile University, Egypt</h3>
+# Hi 👋, I'm Ahmed Haitham
 
-## 💫 About Me:
-🔧 Passionate about <strong>Embedded Systems</strong>, <strong>IoT</strong>, and building innovative, real-world solutions using microcontrollers. <br>
-💻 Also exploring <strong>software development</strong>, with experience in Python, MATLAB, and web technologies. <br>
-☁️ Currently diving into <strong>AWS Cloud</strong> and <strong>Data Science</strong> to broaden my skillset. <br>
-📫 Open to collaborations and exciting opportunities — let’s connect!
+### Electronics & Computer Engineering Student  
+**Embedded Systems • IoT • Data Science • AWS Cloud**  
+Nile University, Egypt | Class of 2027
 
-## 📝 Check out my CV:
-[Ahmed's CV](https://drive.google.com/file/d/1gvrb1vNrXAjX6aHB2L-OLFYuNBt_z1iF/view?usp=sharing)
+---
 
-## 🚀 Projects Showcase
-- **Smart Shop Guard** - built on the ESP32-S3 with FreeRTOS, integrates fire detection, theft prevention, door control, and environmental monitoring. It uses dual-core processing, task scheduling, dual displays, and IoT [GitHub Repo](https://github.com/ahmedhaithamamer/Smart-Shop-Guard-project)  
-- **YouTube Video Downloader GUI** – Python application using yt_dlp with a customtkinter interface for smooth video downloads.  [GitHub Repo](https://github.com/ahmedhaithamamer/Youtube-video-downloader-app)
-- **Multifunction Calculator** – C++ Windows Forms app with basic arithmetic functions, intuitive UI, and navigation menu for mode switching and exit. Developed using Visual Studio and WinForms (.NET Framework). [GitHub Repo](https://github.com/ahmedhaithamamer/Multifunction-Calculator)
-- More projects on my [Repositories](https://github.com/ahmedhaithamamer?tab=repositories).
+## 💫 About Me
 
-## 🎯 Goals & Opportunities
-I am actively looking for internships, collaborations, or job roles in embedded systems, IoT development, and cloud-based solutions. Passionate about solving real-world problems through technology and eager to learn from industry experts.
+🔧 Passionate about building **real-world embedded systems & IoT solutions** using microcontrollers, FreeRTOS, and dual-core processing.  
+📊 Expanding into **Data Science & Machine Learning** through hands-on projects and the DEPI initiative.  
+☁️ Actively learning **AWS Cloud Services** for scalable, data-driven systems.  
+💻 Comfortable with full stack of tools from hardware to Python & cloud.  
+📫 Always open to **internships, collaborations, and impactful opportunities**.
 
-## 🌍 Languages Spoken
-- Egyptian Arabic (Native)  
-- English (Fluent) 
+---
 
-## 🌐 Connect with Me:
+## 📄 CV
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-haitham-amer)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedhaitham589@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ahmedhaitham589)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Medoamer2005)
+🔗 [View My CV](https://drive.google.com/file/d/1gvrb1vNrXAjX6aHB2L-OLFYuNBt_z1iF/view?usp=sharing)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 **Smart Shop Guard** – Embedded IoT System  
+- ESP32-S3 based smart guard with multitasking using **FreeRTOS**  
+- Fire detection, intrusion sensing, door control & environmental monitoring  
+- Dashboard & real-time IoT integration  
+🔗 https://github.com/ahmedhaithamamer/Smart-Shop-Guard-project
+
+---
+
+### 🧠 **Medical X-ray Image Enhancer** – AI Image Processing  
+- Python-based preprocessing & enhancement for medical X-ray imagery  
+- Improves visual clarity for clinical and diagnostic use cases  
+🔗 https://github.com/ahmedhaithamamer/Medical_X-ray_Image_Enhancer
+
+---
+
+### 📈 **Sales Forecasting & Prediction** – Data Science (DEPI)  
+- End-to-end ML pipeline with cleaning, EDA, forecasting, and evaluation  
+- Focus on practical forecasting workflows for real business data
+
+---
+
+### ▶️ **YouTube Video Downloader GUI** – Python App  
+- Desktop tool using **yt_dlp** and **customtkinter**  
+- Clean UI & reliable download support  
+🔗 https://github.com/ahmedhaithamamer/Youtube-video-downloader-app
+
+---
+
+### 🧮 **Multifunction Calculator** – C++ Windows App  
+- Built with Visual Studio & WinForms  
+- Multiple modes and intuitive navigation  
+🔗 https://github.com/ahmedhaithamamer/Multifunction-Calculator
+
+---
+
+➡️ **More projects on my GitHub:**  
+https://github.com/ahmedhaithamamer?tab=repositories
+
+---
+
+## 🎯 Current Focus & Goals
+
+- Embedded Systems & **Real-Time Applications**  
+- Data Science & **Machine Learning Workflows**  
+- AWS Cloud & secure, scalable systems  
+- Industry internships & graduation projects
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-haitham-amer)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedhaitham589@gmail.com)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ahmedhaitham589)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1f8acb.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Medoamer2005)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahmedhaitham4331)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ahmedhaitham10) 
+
+---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 👨‍💻 Languages & Tools
+- **C / C++**  
+- **Python (Data & ML)**  
+- **MATLAB**, Assembly  
+- **SQL (MySQL)**
 
-### 🛠️ Tools & IDEs
-![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-### ⚙️ Hardware & Microcontrollers
-![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP](https://img.shields.io/badge/ESP-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Tinkercad](https://img.shields.io/badge/Tinkercad-FFAE1A.svg?style=for-the-badge&logo=tinkercad&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-36454F.svg?style=for-the-badge&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-003366.svg?style=for-the-badge&logo=analog-devices&logoColor=white)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### ⚙️ Embedded & Hardware
+- **ESP32 (ESP32-S3)**  
+- **FreeRTOS**, Arduino  
+- Raspberry Pi  
+- Proteus, Tinkercad, LTspice
 
 ### ☁️ Cloud & Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- **AWS (Cloud Foundations • ML • Security)**
 
-### 🎨 Design & Creativity
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+### 🌐 Web & Productivity
+- HTML, CSS  
+- Git & GitHub  
+- VS Code, Arduino IDE, Notion
+
+### 🎨 Design
+- Adobe Photoshop  
+- Adobe Illustrator
+
+---
 
 ## 🎓 Certifications & Courses
-[![CS50x](https://img.shields.io/badge/CS50x-Harvard-red?style=for-the-badge&logo=harvard&logoColor=white)](https://courses.edx.org/certificates/0974b00f3761476da41cf75f1405d253)
-![IoT - UCI](https://img.shields.io/badge/IoT_UC_Irvine-007ACC?style=for-the-badge&logo=university&logoColor=white)
-![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS_Academy_Cloud_Foundations-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
-[![Siemens Automotive Embedded Systems](https://img.shields.io/badge/Siemens_Automotive_Embedded_Systems-blue?style=for-the-badge&logo=siemens&logoColor=white)](https://www.siemens.com)
 
-## ✨ Fun Facts / Hobbies
-- Swimming enthusiast 🏊‍♂️  
-- Passionate coder & electronics tinkerer 💡  
-- Always exploring new tech and gadgets  
+- **CS50x** – Harvard University  
+- **Siemens Automotive Embedded Systems Diploma**  
+- **AWS Academy Cloud Foundations**  
+- **Introduction to IoT** – UC Irvine  
+- **DEPI Initiative** – Data Science Track (Ongoing)
 
+---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedhaithamamer&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=ahmedhaithamamer&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhaithamamer&theme=dark&hide_border=true&layout=compact)
+## ✨ Interests & Hobbies
+
+- Swimming 🏊‍♂️  
+- Electronics tinkering & debugging  
+- Exploring new tech & system design
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedhaithamamer&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=ahmedhaithamamer&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhaithamamer&theme=dark&hide_border=true&layout=compact)
+
