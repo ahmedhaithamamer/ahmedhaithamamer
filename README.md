@@ -10,7 +10,7 @@ Nile University, Egypt | Class of 2027
 
 🔧 Passionate about building **real-world embedded systems & IoT solutions** using microcontrollers, FreeRTOS, and dual-core processing.  
 📊 Expanding into **Data Science & Machine Learning** through hands-on projects and the DEPI initiative.  
-☁️ Actively learning **AWS Cloud Services** for scalable, data-driven systems.  
+☁️ Currently learning **AWS Cloud Services** for scalable, data-driven systems.  
 💻 Comfortable with full stack of tools from hardware to Python & cloud.  
 📫 Always open to **internships, collaborations, and impactful opportunities**.
 
@@ -97,9 +97,6 @@ https://github.com/ahmedhaithamamer?tab=repositories
 - Raspberry Pi  
 - Proteus, Tinkercad, LTspice
 
-### ☁️ Cloud & Platforms
-- **AWS (Cloud Foundations • ML • Security)**
-
 ### 🌐 Web & Productivity
 - HTML, CSS  
 - Git & GitHub  
@@ -115,7 +112,6 @@ https://github.com/ahmedhaithamamer?tab=repositories
 
 - **CS50x** – Harvard University  
 - **Siemens Automotive Embedded Systems Diploma**  
-- **AWS Academy Cloud Foundations**  
 - **Introduction to IoT** – UC Irvine  
 - **DEPI Initiative** – Data Science Track (Ongoing)
 
