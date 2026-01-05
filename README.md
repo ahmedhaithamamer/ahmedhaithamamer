@@ -18,7 +18,7 @@ Nile University, Egypt | Class of 2027
 
 ## 📄 CV
 
-🔗 [View My CV](https://drive.google.com/file/d/1gvrb1vNrXAjX6aHB2L-OLFYuNBt_z1iF/view?usp=sharing)
+🔗 [View My CV](https://drive.google.com/file/d/1auowcTtMjCHRl7j2I3BE7nuyrDp09WmP/view?usp=sharing)
 
 ---
 
